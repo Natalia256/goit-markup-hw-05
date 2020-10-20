@@ -419,6 +419,7 @@ margin-right: 92px;
        background-color: #FFFFFF;
    }
    .close-btn{
+       display: flex;
        justify-content: center;
     position: absolute;
     top: 8px;
