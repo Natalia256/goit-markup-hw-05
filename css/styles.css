@@ -617,7 +617,7 @@ padding-top: 20px;
 }
 
 .portfolio-button:hover,
-.bportfolio-button:focus{
+.portfolio-button:focus{
     color: var( --futer-link-color);
     background: var(--link-color);
 }
